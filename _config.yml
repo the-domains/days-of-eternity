@@ -1,7 +1,7 @@
 name: Days of Eternity
 favicon: null
-layout_spectrum: 0.9957287970464677
-typography_spectrum: 0.34708786802366376
+layout_spectrum: 0.0343
+typography_spectrum: 0.03508
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.15501748630777
-  lightness: 0.7621513896156102
-  saturation: 0.4294022263493389
-  rhythmicContrast: 0.2292379611171782
+    - '#ffffff'
+    - '#290d02'
+    - '#59503f'
+    - '#53c0e1'
+    - '#d1c6bf'
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
