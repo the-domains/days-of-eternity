@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Days of Eternity]]></title>
         <description><![CDATA[Days of Eternity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/days-of-eternity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 18:23:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 19:22:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/days-of-eternity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">f7f529c6-fca4-420b-b2a7-a3870eb798b1</guid>
-            <pubDate>Sun, 29 Nov 2015 18:22:54 GMT</pubDate>
+            <title><![CDATA[Day One]]></title>
+            <description><![CDATA[<article><h1>Day One</h1><p>Finally, our journey together has begun! In the world of technology, the end may not always be pretty at first, but together we can make it beautiful.</p></article>]]></description>
+            <link>https://thegrid.ai/days-of-eternity/day-one/index.html</link>
+            <guid isPermaLink="false">1b5e1ec6-9a08-4f5c-9049-fb43362482ea</guid>
+            <pubDate>Sun, 29 Nov 2015 18:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
