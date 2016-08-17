@@ -1,12 +1,20 @@
 ---
-dateModified: '2016-06-12T23:33:20.591Z'
+dateModified: '2016-08-17T16:25:21.307Z'
 description: My sweet bartender.
 inFeed: true
 title: 'Ugh, working on Sundays.'
 author: []
-datePublished: '2016-08-17T16:22:08.608Z'
-starred: false
+datePublished: '2016-08-17T17:00:24.498Z'
 sourcePath: _posts/2016-08-17-ugh-working-on-sundays.md
+publisher: {}
+via: {}
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
