@@ -1,16 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: When friends have a get together on a rainy evening.
+datePublished: '2016-08-17T17:49:33.390Z'
+dateModified: '2016-08-17T17:47:21.954Z'
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-17T17:38:45.152Z'
-publisher: {}
 author: []
-inFeed: true
-description: When friends have a get together on a rainy evening.
 via: {}
-datePublished: '2016-08-17T17:38:48.289Z'
-starred: false
 sourcePath: _posts/2016-08-17-when-friends-have-a-get-together-on-a-rainy-evening.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 _type: Blurb
 
 ---
