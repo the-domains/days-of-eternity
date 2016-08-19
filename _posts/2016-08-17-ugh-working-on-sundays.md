@@ -1,18 +1,22 @@
 ---
-keywords: []
-title: 'Ugh, working on Sundays.'
-datePublished: '2016-08-17T17:28:15.075Z'
-dateModified: '2016-08-17T17:28:13.898Z'
-publisher: {}
-author: []
-inFeed: true
-hasPage: false
-inNav: false
-description: My sweet bartender.
-via: {}
-starred: false
+datePublished: '2016-08-19T13:48:28.163Z'
 sourcePath: _posts/2016-08-17-ugh-working-on-sundays.md
-_type: Blurb
+inFeed: true
+isBasedOnUrl: null
+authors: []
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-19T13:48:27.654Z'
+title: 'Ugh, working on Sundays.'
+publisher: {}
+description: My sweet bartender.
+inLanguage: null
+inNav: false
+starred: true
+_context: 'http://schema.org'
+_type: Article
 
 ---
 # Ugh, working on Sundays.
