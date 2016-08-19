@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Days of Eternity]]></title>
-        <description><![CDATA[Days of Eternity]]></description>
+        <title><![CDATA[Memories]]></title>
+        <description><![CDATA[Memories]]></description>
         <link>https://thegrid.ai/days-of-eternity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 17:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 14:01:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/days-of-eternity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[City Sunset]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Day One]]></title>
-            <description><![CDATA[<p>Finally, our journey together has begun! In the world of technology, the end may not always be pretty at first, but together we can make it beautiful.</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83f63b2d-3c79-4a2e-89a0-a1c24a0b4d3d.jpg">]]></description>
             <link>https://thegrid.ai/days-of-eternity/day-one/index.html</link>
             <guid isPermaLink="false">1b5e1ec6-9a08-4f5c-9049-fb43362482ea</guid>
-            <pubDate>Sun, 29 Nov 2015 18:23:14 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2016 14:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
